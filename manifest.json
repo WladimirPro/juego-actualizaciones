@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.1.1",
-    "packVersion":  "2026.07.13.2",
+    "packVersion":  "2026.07.13.3",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -137,10 +137,10 @@
                  {
                      "id":  "saciedad_sensorial",
                      "name":  "Saciedad Sensorial",
-                     "version":  "1.0.26",
-                     "file":  "saciedad-sensorial-1.0.26.jar",
-                     "sha256":  "4ac4e6116e362db06b743a26f27a21094ae0dd102d15b5c2f820fe00f128377c",
-                     "size":  123731
+                     "version":  "1.0.27",
+                     "file":  "saciedad-sensorial-1.0.27.jar",
+                     "sha256":  "fdfd64713b1e029af0fa4eb75272845307bd310054f24c97b7d1a20166f883a1",
+                     "size":  123533
                  },
                  {
                      "id":  "tumbas_fabric",
