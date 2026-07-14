@@ -1,6 +1,6 @@
 {
     "launcherVersion":  "1.2.0",
-    "packVersion":  "2026.07.14.2",
+    "packVersion":  "2026.07.14.3",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -17,10 +17,10 @@
                  {
                      "id":  "campeones_horda",
                      "name":  "Campeones de Horda",
-                     "version":  "1.1.0",
-                     "file":  "campeones-horda-1.1.0.jar",
-                     "sha256":  "cd09d8bcc74640355f656eba4b44373210e8d83ee947602fe913100597d99b21",
-                     "size":  28477
+                     "version":  "1.1.1",
+                     "file":  "campeones-horda-1.1.1.jar",
+                     "sha256":  "f506df06e3aa2e9490390ab3bed1d60b9629ba7fc140692c9e5479d9a290783f",
+                     "size":  28482
                  },
                  {
                      "id":  "cosecha_con_azada",
@@ -121,10 +121,10 @@
                  {
                      "id":  "noches_malditas",
                      "name":  "Noches Malditas",
-                     "version":  "1.0.0",
-                     "file":  "noches-malditas-1.0.0.jar",
-                     "sha256":  "5accc20aa900426d4674e8d271e6e1b88c8033dc9413e41c9997a5e9e47d2d32",
-                     "size":  32394
+                     "version":  "1.1.0",
+                     "file":  "noches-malditas-1.1.0.jar",
+                     "sha256":  "63ddec6ce86abc597b88c91e5d087a46bfe4c71fdeae1f2421e4da4a5ce9c000",
+                     "size":  33584
                  },
                  {
                      "id":  "pizarra_misiones",
@@ -137,10 +137,10 @@
                  {
                      "id":  "saciedad_sensorial",
                      "name":  "Saciedad Sensorial",
-                     "version":  "1.0.30",
-                     "file":  "saciedad-sensorial-1.0.30.jar",
-                     "sha256":  "e98b55cce4d7f5446677d300cb64759ab553a2e2a2ce6b76c51beb35a6140346",
-                     "size":  124783
+                     "version":  "1.0.31",
+                     "file":  "saciedad-sensorial-1.0.31.jar",
+                     "sha256":  "718fdc4d6c4eac4259791d50933dacfec9319d61433f29d200c0c3d11161c762",
+                     "size":  124781
                  },
                  {
                      "id":  "tumbas_fabric",
@@ -153,10 +153,10 @@
                  {
                      "id":  "wooden_guardian",
                      "name":  "Tung Tung Sahur",
-                     "version":  "1.0.16",
-                     "file":  "wooden-guardian-1.0.16.jar",
-                     "sha256":  "7e0ae10a51c83eeb118b9465b15d0eccd3b944cde6acb673202a2ceddc0ebf9b",
-                     "size":  34383
+                     "version":  "1.0.17",
+                     "file":  "wooden-guardian-1.0.17.jar",
+                     "sha256":  "0f9e504dfa03e72da7a0e918cd31b212e19eb3e2e7ab557c65cad5f285220609",
+                     "size":  34381
                  },
                  {
                      "id":  "zoom_configurable",
