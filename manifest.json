@@ -1,6 +1,6 @@
-{
+﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.14.3",
+    "packVersion":  "2026.07.14.4",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -17,10 +17,10 @@
                  {
                      "id":  "campeones_horda",
                      "name":  "Campeones de Horda",
-                     "version":  "1.1.1",
-                     "file":  "campeones-horda-1.1.1.jar",
-                     "sha256":  "f506df06e3aa2e9490390ab3bed1d60b9629ba7fc140692c9e5479d9a290783f",
-                     "size":  28482
+                     "version":  "1.1.2",
+                     "file":  "campeones-horda-1.1.2.jar",
+                     "sha256":  "0270974f0dcc6e33f2cc52d7d820af6000b58636679ac93b2607e5572f1a3be2",
+                     "size":  29275
                  },
                  {
                      "id":  "cosecha_con_azada",
