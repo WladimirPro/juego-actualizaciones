@@ -1,6 +1,6 @@
 {
-    "launcherVersion":  "1.1.2",
-    "packVersion":  "2026.07.14.1",
+    "launcherVersion":  "1.2.0",
+    "packVersion":  "2026.07.14.2",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -175,5 +175,5 @@
                      "size":  4930
                  }
              ],
-    "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
+    "downloadBaseUrl":  "https://github.com/WladimirPro/juego-actualizaciones/releases/latest/download/"
 }
