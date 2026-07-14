@@ -1,6 +1,6 @@
 {
-    "launcherVersion":  "1.1.1",
-    "packVersion":  "2026.07.13.7",
+    "launcherVersion":  "1.1.2",
+    "packVersion":  "2026.07.13.8",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -165,6 +165,14 @@
                      "file":  "zoom-configurable-1.0.0.jar",
                      "sha256":  "47859e53cd9e1d5856df4171b8e1b65e3f7943727fbe97c32d36e21479969983",
                      "size":  11166
+                 },
+                 {
+                     "id":  "talado_arboles",
+                     "name":  "Talado de Arboles",
+                     "version":  "1.0.0",
+                     "file":  "talado-arboles-1.0.0.jar",
+                     "sha256":  "ddd749cc7d4228a6998894515441c3e81486f9fc8ad8520ae5ba6562a85f1f42",
+                     "size":  4930
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
