@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.14.4",
+    "packVersion":  "2026.07.14.5",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -57,10 +57,10 @@
                  {
                      "id":  "herramientas_3x3",
                      "name":  "Herramientas 3x3",
-                     "version":  "1.0.0",
-                     "file":  "herramientas-3x3-1.0.0.jar",
-                     "sha256":  "a0427200f31dc481f09d58bd489d9db2a9fb5b1a6745a2c1aff8e7d7f2265131",
-                     "size":  26422
+                     "version":  "1.0.1",
+                     "file":  "herramientas-3x3-1.0.1.jar",
+                     "sha256":  "6e6c744bd7216ad372ba8b89991b42b88960bf120b819f9faecaa8d88d2d42b1",
+                     "size":  26457
                  },
                  {
                      "id":  "hordas_encantamientos",
@@ -89,10 +89,10 @@
                  {
                      "id":  "mineral_albarita",
                      "name":  "Mineral de Albarita",
-                     "version":  "1.0.25",
-                     "file":  "mineral-albarita-1.0.25.jar",
-                     "sha256":  "ebf24b2417a33bb5f02c3991249d478581b9cfd6592134e99d1310468608ae4b",
-                     "size":  107915
+                     "version":  "1.0.26",
+                     "file":  "mineral-albarita-1.0.26.jar",
+                     "sha256":  "aee8b46abbeb9e180f7d7d2c1e87c1a35168a710691c22eb48c8271d177c646f",
+                     "size":  108269
                  },
                  {
                      "id":  "mineral_de_corazon",
