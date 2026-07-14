@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.1.1",
-    "packVersion":  "2026.07.13.3",
+    "packVersion":  "2026.07.13.4",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -65,10 +65,10 @@
                  {
                      "id":  "hordas_encantamientos",
                      "name":  "Libros Vanilla Extendidos",
-                     "version":  "1.0.0",
-                     "file":  "hordas-encantamientos-1.0.0.jar",
-                     "sha256":  "6bdae79cd3377ff5e49da3bf944a9ee9685dcb07a83e0a71c6a70e849bd994c0",
-                     "size":  26648
+                     "version":  "1.0.1",
+                     "file":  "hordas-encantamientos-1.0.1.jar",
+                     "sha256":  "6d413da4eb613963b7c24ad2c661c93073ec6afd82612f132a3b16109bace6f9",
+                     "size":  27412
                  },
                  {
                      "id":  "hordas_incrementales",
@@ -137,18 +137,18 @@
                  {
                      "id":  "saciedad_sensorial",
                      "name":  "Saciedad Sensorial",
-                     "version":  "1.0.27",
-                     "file":  "saciedad-sensorial-1.0.27.jar",
-                     "sha256":  "fdfd64713b1e029af0fa4eb75272845307bd310054f24c97b7d1a20166f883a1",
-                     "size":  123533
+                     "version":  "1.0.28",
+                     "file":  "saciedad-sensorial-1.0.28.jar",
+                     "sha256":  "5196b8164e52e606e64ec0f2aadc11375bfd0ef5054aa7adaae0eb351651dc63",
+                     "size":  124036
                  },
                  {
                      "id":  "tumbas_fabric",
                      "name":  "Tumbas Fabric",
-                     "version":  "1.0.6",
-                     "file":  "tumbas-fabric-1.0.6.jar",
-                     "sha256":  "a18c62524dabee4a7f3e0f3f3729f0cbfb0507f09ddbf1a04e16ca8aff3a8adc",
-                     "size":  44436
+                     "version":  "1.0.7",
+                     "file":  "tumbas-fabric-1.0.7.jar",
+                     "sha256":  "e04bc5bc3cdd2e490b6884036f32231151f5406af637aec737bd1023a42443da",
+                     "size":  44797
                  },
                  {
                      "id":  "wooden_guardian",
