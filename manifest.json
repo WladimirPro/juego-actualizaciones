@@ -1,6 +1,6 @@
-﻿{
+{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.14.5",
+    "packVersion":  "2026.07.15.1",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -17,10 +17,10 @@
                  {
                      "id":  "campeones_horda",
                      "name":  "Campeones de Horda",
-                     "version":  "1.1.2",
-                     "file":  "campeones-horda-1.1.2.jar",
-                     "sha256":  "0270974f0dcc6e33f2cc52d7d820af6000b58636679ac93b2607e5572f1a3be2",
-                     "size":  29275
+                     "version":  "1.1.3",
+                     "file":  "campeones-horda-1.1.3.jar",
+                     "sha256":  "6e1918851c6ed38910720fa55039bb327073d5849428a6af5b80ff4547b7bcae",
+                     "size":  29263
                  },
                  {
                      "id":  "cosecha_con_azada",
@@ -33,10 +33,10 @@
                  {
                      "id":  "criaturas_miticas",
                      "name":  "Criaturas Miticas",
-                     "version":  "3.1.2",
-                     "file":  "criaturas-miticas-3.1.2.jar",
-                     "sha256":  "4d199e9c658f8e9d7185ed70c0166638c0c1dd8846071a1d0c87278d7a5a6050",
-                     "size":  357867
+                     "version":  "3.2.0",
+                     "file":  "criaturas-miticas-3.2.0.jar",
+                     "sha256":  "727dc2ff197593dcef850d913d853e10d7df99ea3bce5ddd7232b797dc71daa6",
+                     "size":  380268
                  },
                  {
                      "id":  "elevador",
@@ -53,6 +53,14 @@
                      "file":  "fabric-api-0.154.0+26.2.jar",
                      "sha256":  "84a5399dfd1096295450dfdbd535693453962f51fa20a8c15855dd1e69a73adc",
                      "size":  2523694
+                 },
+                 {
+                     "id":  "grapandgo",
+                     "name":  "Carry On compatible (GrabAndGo)",
+                     "version":  "1.0.1",
+                     "file":  "GrabAndGo-1.0.1.jar",
+                     "sha256":  "9360863791c9e2f898de7abf5c2a671343fa47b793fadd51cc41bf254ef5bb64",
+                     "size":  381703
                  },
                  {
                      "id":  "herramientas_3x3",
@@ -129,26 +137,34 @@
                  {
                      "id":  "pizarra_misiones",
                      "name":  "Pizarra de Misiones",
-                     "version":  "1.2.0",
-                     "file":  "pizarra-misiones-1.2.0.jar",
-                     "sha256":  "0b17d00bd0975fb7dae2bcf62acce40681f2b38aa095acf794edc972705c88c3",
-                     "size":  41828
+                     "version":  "1.2.1",
+                     "file":  "pizarra-misiones-1.2.1.jar",
+                     "sha256":  "afa293cbe2d0e3eb54991201ccf6b2ed33cbb024709926bd5e5009a2a8cbbbde",
+                     "size":  41897
                  },
                  {
                      "id":  "saciedad_sensorial",
                      "name":  "Saciedad Sensorial",
-                     "version":  "1.0.31",
-                     "file":  "saciedad-sensorial-1.0.31.jar",
-                     "sha256":  "718fdc4d6c4eac4259791d50933dacfec9319d61433f29d200c0c3d11161c762",
-                     "size":  124781
+                     "version":  "1.0.32",
+                     "file":  "saciedad-sensorial-1.0.32.jar",
+                     "sha256":  "7bf7260dfcc18b9f21b5007434ff0ba9fe00f0958232c973e7576331daa45b72",
+                     "size":  124853
+                 },
+                 {
+                     "id":  "talado_arboles",
+                     "name":  "Talado de Arboles",
+                     "version":  "1.0.0",
+                     "file":  "talado-arboles-1.0.0.jar",
+                     "sha256":  "ddd749cc7d4228a6998894515441c3e81486f9fc8ad8520ae5ba6562a85f1f42",
+                     "size":  4930
                  },
                  {
                      "id":  "tumbas_fabric",
                      "name":  "Tumbas Fabric",
-                     "version":  "1.0.7",
-                     "file":  "tumbas-fabric-1.0.7.jar",
-                     "sha256":  "e04bc5bc3cdd2e490b6884036f32231151f5406af637aec737bd1023a42443da",
-                     "size":  44797
+                     "version":  "1.0.8",
+                     "file":  "tumbas-fabric-1.0.8.jar",
+                     "sha256":  "49add3091f832b0bcc0b9bd1b237c9898e8e6ff1c43c9d236b4daca9c69c6d35",
+                     "size":  45502
                  },
                  {
                      "id":  "wooden_guardian",
@@ -165,15 +181,7 @@
                      "file":  "zoom-configurable-1.0.0.jar",
                      "sha256":  "47859e53cd9e1d5856df4171b8e1b65e3f7943727fbe97c32d36e21479969983",
                      "size":  11166
-                 },
-                 {
-                     "id":  "talado_arboles",
-                     "name":  "Talado de Arboles",
-                     "version":  "1.0.0",
-                     "file":  "talado-arboles-1.0.0.jar",
-                     "sha256":  "ddd749cc7d4228a6998894515441c3e81486f9fc8ad8520ae5ba6562a85f1f42",
-                     "size":  4930
                  }
              ],
-    "downloadBaseUrl":  "https://github.com/WladimirPro/juego-actualizaciones/releases/latest/download/"
+    "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
 }
