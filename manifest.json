@@ -1,6 +1,6 @@
-﻿{
+{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.16.2",
+    "packVersion":  "2026.07.16.3",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -165,6 +165,14 @@
                      "file":  "tumbas-fabric-1.0.8.jar",
                      "sha256":  "49add3091f832b0bcc0b9bd1b237c9898e8e6ff1c43c9d236b4daca9c69c6d35",
                      "size":  45502
+                 },
+                 {
+                     "id":  "voicechat",
+                     "name":  "Chat de Voz por Proximidad",
+                     "version":  "2.6.20+26.2",
+                     "file":  "voicechat-fabric-2.6.20+26.2.jar",
+                     "sha256":  "6357a67908ab352c7b84dded72ac1a51f255028ef13f98dc109541b94fe34645",
+                     "size":  5569123
                  },
                  {
                      "id":  "wooden_guardian",
