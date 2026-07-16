@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.16.1",
+    "packVersion":  "2026.07.16.2",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -169,10 +169,10 @@
                  {
                      "id":  "wooden_guardian",
                      "name":  "Tung Tung Sahur",
-                     "version":  "1.0.17",
-                     "file":  "wooden-guardian-1.0.17.jar",
-                     "sha256":  "0f9e504dfa03e72da7a0e918cd31b212e19eb3e2e7ab557c65cad5f285220609",
-                     "size":  34381
+                     "version":  "1.0.18",
+                     "file":  "wooden-guardian-1.0.18.jar",
+                     "sha256":  "b7ac92b664760f8b81d644d241ede266583e9f931b985ad4e8b776b065b90803",
+                     "size":  36520
                  },
                  {
                      "id":  "zoom_configurable",
