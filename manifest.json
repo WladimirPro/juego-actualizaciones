@@ -1,6 +1,6 @@
-{
+﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.15.1",
+    "packVersion":  "2026.07.16.1",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -33,10 +33,10 @@
                  {
                      "id":  "criaturas_miticas",
                      "name":  "Criaturas Miticas",
-                     "version":  "3.2.0",
-                     "file":  "criaturas-miticas-3.2.0.jar",
-                     "sha256":  "727dc2ff197593dcef850d913d853e10d7df99ea3bce5ddd7232b797dc71daa6",
-                     "size":  380268
+                     "version":  "3.2.1",
+                     "file":  "criaturas-miticas-3.2.1.jar",
+                     "sha256":  "de9a68ca1ee4b63a83329fbfa8cb53e5ee68c368bf1cdcbcaa6c89ca767776a1",
+                     "size":  380341
                  },
                  {
                      "id":  "elevador",
@@ -56,11 +56,11 @@
                  },
                  {
                      "id":  "grapandgo",
-                     "name":  "Carry On compatible (GrabAndGo)",
-                     "version":  "1.0.1",
-                     "file":  "GrabAndGo-1.0.1.jar",
-                     "sha256":  "9360863791c9e2f898de7abf5c2a671343fa47b793fadd51cc41bf254ef5bb64",
-                     "size":  381703
+                     "name":  "Carry On para AndesCraft",
+                     "version":  "2.10.0-andescraft.1",
+                     "file":  "carryon-fabric-26.2-2.10.0-andescraft.1.jar",
+                     "sha256":  "5fab967996fcb6fdedccf406c78870ef6612b2bc126ff8193874e39388489d63",
+                     "size":  377941
                  },
                  {
                      "id":  "herramientas_3x3",
@@ -81,10 +81,10 @@
                  {
                      "id":  "hordas_incrementales",
                      "name":  "Hordas Incrementales",
-                     "version":  "1.0.0",
-                     "file":  "hordas-incrementales-1.0.0.jar",
-                     "sha256":  "f4eb8bcf7e9bc55b780a4a9b979d4a98a3d442575aee182781d6083cad014d68",
-                     "size":  25253
+                     "version":  "1.0.1",
+                     "file":  "hordas-incrementales-1.0.1.jar",
+                     "sha256":  "0fee3e1a14b05c917430e226cec5f2e141c368fdf95b733747373d30bfe64b4b",
+                     "size":  25489
                  },
                  {
                      "id":  "indicador_vida_mobs",
@@ -121,26 +121,26 @@
                  {
                      "id":  "mochila_equipada",
                      "name":  "Mochila Equipada",
-                     "version":  "1.1.4",
-                     "file":  "mochila-equipada-1.1.4.jar",
-                     "sha256":  "2ab85c85c4c811ddae74761e29992d1323ad5197ed866d19b983c9ee58cfce2a",
-                     "size":  82683
+                     "version":  "1.1.5",
+                     "file":  "mochila-equipada-1.1.5.jar",
+                     "sha256":  "b20b4fd4c83e4c8111ecfb51c308cddbaca1f655dbabb0933cc533faca069f21",
+                     "size":  84492
                  },
                  {
                      "id":  "noches_malditas",
                      "name":  "Noches Malditas",
-                     "version":  "1.1.0",
-                     "file":  "noches-malditas-1.1.0.jar",
-                     "sha256":  "63ddec6ce86abc597b88c91e5d087a46bfe4c71fdeae1f2421e4da4a5ce9c000",
-                     "size":  33584
+                     "version":  "1.1.1",
+                     "file":  "noches-malditas-1.1.1.jar",
+                     "sha256":  "70500fa8aceaf139b8ffba6014c3b2e24f229f5f9205e9c16a20f7e77e71916d",
+                     "size":  35829
                  },
                  {
                      "id":  "pizarra_misiones",
                      "name":  "Pizarra de Misiones",
-                     "version":  "1.2.1",
-                     "file":  "pizarra-misiones-1.2.1.jar",
-                     "sha256":  "afa293cbe2d0e3eb54991201ccf6b2ed33cbb024709926bd5e5009a2a8cbbbde",
-                     "size":  41897
+                     "version":  "1.2.2",
+                     "file":  "pizarra-misiones-1.2.2.jar",
+                     "sha256":  "8882378716de53b2553cb6dd01fd2cb566358ded3bae0b8f122dc491cdf1fe05",
+                     "size":  42408
                  },
                  {
                      "id":  "saciedad_sensorial",
