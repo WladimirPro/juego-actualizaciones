@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.17.2",
+    "packVersion":  "2026.07.17.3",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -29,6 +29,14 @@
                      "file":  "cosecha-con-azada-1.0.0.jar",
                      "sha256":  "527fae14b5f30c0b6ca2e2e58cfd69020c39db323d7d6d5e71abed543986771c",
                      "size":  5364
+                 },
+                 {
+                     "id":  "decoracion_andescraft",
+                     "name":  "Decoracion AndesCraft",
+                     "version":  "1.0.0",
+                     "file":  "decoracion-andescraft-1.0.0.jar",
+                     "sha256":  "09f843b45b6ec95071774b01ffea73b8d7b8b3e5e5b712f1dc803dddd14f4b6e",
+                     "size":  24983
                  },
                  {
                      "id":  "criaturas_miticas",
