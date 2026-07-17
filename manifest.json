@@ -1,6 +1,6 @@
 {
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.16.3",
+    "packVersion":  "2026.07.16.4",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -137,10 +137,10 @@
                  {
                      "id":  "pizarra_misiones",
                      "name":  "Pizarra de Misiones",
-                     "version":  "1.2.2",
-                     "file":  "pizarra-misiones-1.2.2.jar",
-                     "sha256":  "8882378716de53b2553cb6dd01fd2cb566358ded3bae0b8f122dc491cdf1fe05",
-                     "size":  42408
+                     "version":  "1.2.3",
+                     "file":  "pizarra-misiones-1.2.3.jar",
+                     "sha256":  "095d50fde6b95ce5ba5bdac7e87160f1e2625cb1bd409904c68500e88b60bef1",
+                     "size":  42528
                  },
                  {
                      "id":  "saciedad_sensorial",
