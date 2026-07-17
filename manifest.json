@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.16.5",
+    "packVersion":  "2026.07.17.1",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -189,6 +189,30 @@
                      "file":  "zoom-configurable-1.0.0.jar",
                      "sha256":  "47859e53cd9e1d5856df4171b8e1b65e3f7943727fbe97c32d36e21479969983",
                      "size":  11166
+                 },
+                 {
+                     "id":  "forgeconfigapiport",
+                     "name":  "Forge Config API Port",
+                     "version":  "26.2.1",
+                     "file":  "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+                     "sha256":  "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac",
+                     "size":  609550
+                 },
+                 {
+                     "id":  "puzzleslib",
+                     "name":  "Puzzles Lib",
+                     "version":  "26.2.1",
+                     "file":  "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+                     "sha256":  "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669",
+                     "size":  1146181
+                 },
+                 {
+                     "id":  "mutantmonsters",
+                     "name":  "Mutant Monsters",
+                     "version":  "26.2.0",
+                     "file":  "MutantMonsters-v26.2.0-mc26.2.x-Fabric.jar",
+                     "sha256":  "b03c167c2f6a1cc5e7c32de28d8383e65473e0164ce1bb4747c80cbfcf1f0ac8",
+                     "size":  1367277
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
