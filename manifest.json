@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.17.1",
+    "packVersion":  "2026.07.17.2",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -81,10 +81,10 @@
                  {
                      "id":  "hordas_incrementales",
                      "name":  "Hordas Incrementales",
-                     "version":  "1.0.1",
-                     "file":  "hordas-incrementales-1.0.1.jar",
-                     "sha256":  "0fee3e1a14b05c917430e226cec5f2e141c368fdf95b733747373d30bfe64b4b",
-                     "size":  25489
+                     "version":  "1.0.2",
+                     "file":  "hordas-incrementales-1.0.2.jar",
+                     "sha256":  "56ede8e9b0cd8173121e444c52ff65cb102b80a5297f7dad24f53e1c9a8506f5",
+                     "size":  26619
                  },
                  {
                      "id":  "indicador_vida_mobs",
@@ -129,10 +129,10 @@
                  {
                      "id":  "noches_malditas",
                      "name":  "Noches Malditas",
-                     "version":  "1.1.1",
-                     "file":  "noches-malditas-1.1.1.jar",
-                     "sha256":  "70500fa8aceaf139b8ffba6014c3b2e24f229f5f9205e9c16a20f7e77e71916d",
-                     "size":  35829
+                     "version":  "1.1.2",
+                     "file":  "noches-malditas-1.1.2.jar",
+                     "sha256":  "22b819e2008dc2aaf9896a409ebb5ea5c4cf527b50643b29363bbca7fbefff23",
+                     "size":  35975
                  },
                  {
                      "id":  "pizarra_misiones",
