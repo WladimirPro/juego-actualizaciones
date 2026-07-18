@@ -1,6 +1,6 @@
-﻿{
+{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.17.6",
+    "packVersion":  "2026.07.18.1",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -33,18 +33,18 @@
                  {
                      "id":  "decoracion_andescraft",
                      "name":  "Decoracion AndesCraft",
-                     "version":  "1.2.1",
-                     "file":  "decoracion-andescraft-1.2.1.jar",
-                     "sha256":  "5e1e4e7fa46ebdf96fee242620343a0c202f274d1ef7f2484b03168fa17bb79f",
-                     "size":  189089
+                     "version":  "1.2.2",
+                     "file":  "decoracion-andescraft-1.2.2.jar",
+                     "sha256":  "eaf0439ae635a03c1e7afa8164ab5d103f880d2ed69dbae1e415b90cc9bb9812",
+                     "size":  189468
                  },
                  {
                      "id":  "criaturas_miticas",
                      "name":  "Criaturas Miticas",
-                     "version":  "3.2.1",
-                     "file":  "criaturas-miticas-3.2.1.jar",
-                     "sha256":  "de9a68ca1ee4b63a83329fbfa8cb53e5ee68c368bf1cdcbcaa6c89ca767776a1",
-                     "size":  380341
+                     "version":  "3.3.0",
+                     "file":  "criaturas-miticas-3.3.0.jar",
+                     "sha256":  "a7a3451caedf8401250e76acd5c3c1caa454d168ad2a2b98d27af9cea6708f10",
+                     "size":  388628
                  },
                  {
                      "id":  "elevador",
@@ -81,10 +81,10 @@
                  {
                      "id":  "hordas_encantamientos",
                      "name":  "Libros Vanilla Extendidos",
-                     "version":  "1.0.1",
-                     "file":  "hordas-encantamientos-1.0.1.jar",
-                     "sha256":  "6d413da4eb613963b7c24ad2c661c93073ec6afd82612f132a3b16109bace6f9",
-                     "size":  27412
+                     "version":  "1.0.2",
+                     "file":  "hordas-encantamientos-1.0.2.jar",
+                     "sha256":  "363477a590972fbee93f1427baa3e9babcfd596f0b603641064779aee52f03fc",
+                     "size":  27772
                  },
                  {
                      "id":  "hordas_incrementales",
