@@ -1,6 +1,6 @@
-{
+﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.18.6",
+    "packVersion":  "2026.07.21.2",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -25,10 +25,10 @@
                  {
                      "id":  "cosecha_con_azada",
                      "name":  "Cosecha con Azada",
-                     "version":  "1.0.0",
-                     "file":  "cosecha-con-azada-1.0.0.jar",
-                     "sha256":  "527fae14b5f30c0b6ca2e2e58cfd69020c39db323d7d6d5e71abed543986771c",
-                     "size":  5364
+                     "version":  "1.0.1",
+                     "file":  "cosecha-con-azada-1.0.1.jar",
+                     "sha256":  "7ac7c551ce83c50b4cfdad6bdf8437caf99936a463e5ccd9b98d3f2436edaff1",
+                     "size":  6421
                  },
                  {
                      "id":  "decoracion_andescraft",
@@ -41,10 +41,10 @@
                  {
                      "id":  "criaturas_miticas",
                      "name":  "Criaturas Miticas",
-                     "version":  "3.5.3",
-                     "file":  "criaturas-miticas-3.5.3.jar",
-                     "sha256":  "96bc1019ead4a1daf76175f2720763a55aefdd3226ce458bdac31d14813004c8",
-                     "size":  400841
+                     "version":  "3.5.4",
+                     "file":  "criaturas-miticas-3.5.4.jar",
+                     "sha256":  "51ff1ff8304175551af482a488455401df1169994a9b47014a28a11e0e5d1d69",
+                     "size":  401430
                  },
                  {
                      "id":  "elevador",
@@ -221,6 +221,14 @@
                      "file":  "MutantMonsters-v26.2.0-mc26.2.x-Fabric.jar",
                      "sha256":  "b03c167c2f6a1cc5e7c32de28d8383e65473e0164ce1bb4747c80cbfcf1f0ac8",
                      "size":  1367277
+                 },
+                 {
+                     "id":  "golem_cobre_trabajador",
+                     "name":  "Golem de Cobre Trabajador",
+                     "version":  "1.0.0",
+                     "file":  "golem-cobre-trabajador-1.0.0.jar",
+                     "sha256":  "1b4f62b8cdccabd08a42a827c46778cea5556897f636fc60c61417184eac3569",
+                     "size":  13190
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
