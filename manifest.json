@@ -1,235 +1,235 @@
 ﻿{
-    "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.21.15",
-    "minecraftVersion":  "26.2",
-    "fabricLoaderVersion":  "0.19.3",
-    "fabricProfile":  "fabric-loader-0.19.3-26.2",
-    "serverAddress":  "behind-usgs.gl.joinmc.link",
-    "mods":  [
-                 {
-                     "id":  "basurero_3d",
-                     "name":  "Basurero 3D",
-                     "version":  "1.0.0",
-                     "file":  "basurero-3d-1.0.0.jar",
-                     "sha256":  "9c4c973b3a549738508bf672d3f69ecf8555c7d79d32a8286933b434b05a3b00",
-                     "size":  15864
-                 },
-                 {
-                     "id":  "campeones_horda",
-                     "name":  "Campeones de Horda",
-                     "version":  "1.1.4",
-                     "file":  "campeones-horda-1.1.4.jar",
-                     "sha256":  "4ca4cd8cbfac6c09987140ee0b898170a5c3651138774f224fc141c05e09279f",
-                     "size":  30338
-                 },
-                 {
-                     "id":  "cosecha_con_azada",
-                     "name":  "Cosecha con Azada",
-                     "version":  "1.0.1",
-                     "file":  "cosecha-con-azada-1.0.1.jar",
-                     "sha256":  "7ac7c551ce83c50b4cfdad6bdf8437caf99936a463e5ccd9b98d3f2436edaff1",
-                     "size":  6421
-                 },
-                 {
-                     "id":  "decoracion_andescraft",
-                     "name":  "Decoracion AndesCraft",
-                     "version":  "1.2.2",
-                     "file":  "decoracion-andescraft-1.2.2.jar",
-                     "sha256":  "eaf0439ae635a03c1e7afa8164ab5d103f880d2ed69dbae1e415b90cc9bb9812",
-                     "size":  189468
-                 },
-                 {
-                     "id":  "criaturas_miticas",
-                     "name":  "Criaturas Miticas",
-                     "version":  "3.5.9",
-                     "file":  "criaturas-miticas-3.5.9.jar",
-                     "sha256":  "b32b2c6cfcb95559ba9d9f30c44ff6a03ba2fd8e5cc171ce57098b5096d1e58e",
-                     "size":  407724
-                 },
-                 {
-                     "id":  "elevador",
-                     "name":  "Elevador",
-                     "version":  "1.0.0",
-                     "file":  "elevador-1.0.0.jar",
-                     "sha256":  "8ea07a9415cffe01345118e0e691b2adfa547a5c1f9a786523c17eeba5d8a58e",
-                     "size":  13759
-                 },
-                 {
-                     "id":  "fabric-api",
-                     "name":  "Fabric API",
-                     "version":  "0.154.0+26.2",
-                     "file":  "fabric-api-0.154.0+26.2.jar",
-                     "sha256":  "84a5399dfd1096295450dfdbd535693453962f51fa20a8c15855dd1e69a73adc",
-                     "size":  2523694
-                 },
-                 {
-                     "id":  "grapandgo",
-                     "name":  "Carry On para AndesCraft",
-                     "version":  "2.10.0-andescraft.1",
-                     "file":  "carryon-fabric-26.2-2.10.0-andescraft.1.jar",
-                     "sha256":  "5fab967996fcb6fdedccf406c78870ef6612b2bc126ff8193874e39388489d63",
-                     "size":  377941
-                 },
-                 {
-                     "id":  "herramientas_3x3",
-                     "name":  "Herramientas 3x3",
-                     "version":  "1.0.1",
-                     "file":  "herramientas-3x3-1.0.1.jar",
-                     "sha256":  "6e6c744bd7216ad372ba8b89991b42b88960bf120b819f9faecaa8d88d2d42b1",
-                     "size":  26457
-                 },
-                 {
-                     "id":  "hordas_encantamientos",
-                     "name":  "Libros Vanilla Extendidos",
-                     "version":  "1.0.2",
-                     "file":  "hordas-encantamientos-1.0.2.jar",
-                     "sha256":  "363477a590972fbee93f1427baa3e9babcfd596f0b603641064779aee52f03fc",
-                     "size":  27772
-                 },
-                 {
-                     "id":  "hordas_incrementales",
-                     "name":  "Hordas Incrementales",
-                     "version":  "1.0.2",
-                     "file":  "hordas-incrementales-1.0.2.jar",
-                     "sha256":  "56ede8e9b0cd8173121e444c52ff65cb102b80a5297f7dad24f53e1c9a8506f5",
-                     "size":  26619
-                 },
-                 {
-                     "id":  "indicador_vida_mobs",
-                     "name":  "Indicador de Vida de Mobs",
-                     "version":  "1.0.0",
-                     "file":  "indicador-vida-mobs-1.0.0.jar",
-                     "sha256":  "bef1801417d508741640280b7c6ed80c3af79155d8557e2d2ba2c89bfa8026a6",
-                     "size":  8594
-                 },
-                 {
-                     "id":  "mineral_albarita",
-                     "name":  "Mineral de Albarita",
-                     "version":  "1.0.26",
-                     "file":  "mineral-albarita-1.0.26.jar",
-                     "sha256":  "aee8b46abbeb9e180f7d7d2c1e87c1a35168a710691c22eb48c8271d177c646f",
-                     "size":  108269
-                 },
-                 {
-                     "id":  "mineral_de_corazon",
-                     "name":  "Mineral de Corazon",
-                     "version":  "1.0.6",
-                     "file":  "mineral-de-corazon-1.0.6.jar",
-                     "sha256":  "88bf4519fdcf7500188a81f67871742788d2a484d3207f693e748f1c771fee85",
-                     "size":  19082
-                 },
-                 {
-                     "id":  "minerales_escasos",
-                     "name":  "Minerales Escasos",
-                     "version":  "1.1.0",
-                     "file":  "minerales-escasos-1.1.0.jar",
-                     "sha256":  "060a73f6a745abc8651056f40320b681d257968c2988faf869fa8f0a500455dd",
-                     "size":  16670
-                 },
-                 {
-                     "id":  "mochila_equipada",
-                     "name":  "Mochila Equipada",
-                     "version":  "1.1.5",
-                     "file":  "mochila-equipada-1.1.5.jar",
-                     "sha256":  "b20b4fd4c83e4c8111ecfb51c308cddbaca1f655dbabb0933cc533faca069f21",
-                     "size":  84492
-                 },
-                 {
-                     "id":  "noches_malditas",
-                     "name":  "Noches Malditas",
-                     "version":  "1.1.2",
-                     "file":  "noches-malditas-1.1.2.jar",
-                     "sha256":  "22b819e2008dc2aaf9896a409ebb5ea5c4cf527b50643b29363bbca7fbefff23",
-                     "size":  35975
-                 },
-                 {
-                     "id":  "pizarra_misiones",
-                     "name":  "Pizarra de Misiones",
-                     "version":  "1.2.4",
-                     "file":  "pizarra-misiones-1.2.4.jar",
-                     "sha256":  "bbf1f25e2fa7799782c352859c4d95e7f36f104319cf01d0ca5b373dcef25c6a",
-                     "size":  42729
-                 },
-                 {
-                     "id":  "saciedad_sensorial",
-                     "name":  "Saciedad Sensorial",
-                     "version":  "1.0.32",
-                     "file":  "saciedad-sensorial-1.0.32.jar",
-                     "sha256":  "7bf7260dfcc18b9f21b5007434ff0ba9fe00f0958232c973e7576331daa45b72",
-                     "size":  124853
-                 },
-                 {
-                     "id":  "talado_arboles",
-                     "name":  "Talado de Arboles",
-                     "version":  "1.0.0",
-                     "file":  "talado-arboles-1.0.0.jar",
-                     "sha256":  "ddd749cc7d4228a6998894515441c3e81486f9fc8ad8520ae5ba6562a85f1f42",
-                     "size":  4930
-                 },
-                 {
-                     "id":  "tumbas_fabric",
-                     "name":  "Tumbas Fabric",
-                     "version":  "1.0.8",
-                     "file":  "tumbas-fabric-1.0.8.jar",
-                     "sha256":  "49add3091f832b0bcc0b9bd1b237c9898e8e6ff1c43c9d236b4daca9c69c6d35",
-                     "size":  45502
-                 },
-                 {
-                     "id":  "voicechat",
-                     "name":  "Chat de Voz por Proximidad",
-                     "version":  "2.6.20+26.2",
-                     "file":  "voicechat-fabric-2.6.20+26.2.jar",
-                     "sha256":  "6357a67908ab352c7b84dded72ac1a51f255028ef13f98dc109541b94fe34645",
-                     "size":  5569123
-                 },
-                 {
-                     "id":  "wooden_guardian",
-                     "name":  "Tung Tung Sahur",
-                     "version":  "1.0.18",
-                     "file":  "wooden-guardian-1.0.18.jar",
-                     "sha256":  "b7ac92b664760f8b81d644d241ede266583e9f931b985ad4e8b776b065b90803",
-                     "size":  36520
-                 },
-                 {
-                     "id":  "zoom_configurable",
-                     "name":  "Zoom Configurable",
-                     "version":  "1.0.0",
-                     "file":  "zoom-configurable-1.0.0.jar",
-                     "sha256":  "47859e53cd9e1d5856df4171b8e1b65e3f7943727fbe97c32d36e21479969983",
-                     "size":  11166
-                 },
-                 {
-                     "id":  "forgeconfigapiport",
-                     "name":  "Forge Config API Port",
-                     "version":  "26.2.1",
-                     "file":  "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
-                     "sha256":  "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac",
-                     "size":  609550
-                 },
-                 {
-                     "id":  "puzzleslib",
-                     "name":  "Puzzles Lib",
-                     "version":  "26.2.1",
-                     "file":  "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
-                     "sha256":  "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669",
-                     "size":  1146181
-                 },
-                 {
-                     "id":  "mutantmonsters",
-                     "name":  "Mutant Monsters",
-                     "version":  "26.2.0",
-                     "file":  "MutantMonsters-v26.2.0-mc26.2.x-Fabric.jar",
-                     "sha256":  "b03c167c2f6a1cc5e7c32de28d8383e65473e0164ce1bb4747c80cbfcf1f0ac8",
-                     "size":  1367277
-                 },
-                 {
-                     "id":  "golem_cobre_trabajador",
-                     "name":  "Golem de Cobre Trabajador",
-                     "version":  "1.0.7",
-                     "file":  "golem-cobre-trabajador-1.0.7.jar",
-                     "sha256":  "e81379320cb65bec236dc76e501fb71c5a233ce8a3fa47b5c70e7e5c7b6c693f",
-                     "size":  26255
-                 }
-             ],
-    "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
+  "launcherVersion": "1.2.2",
+  "packVersion": "2026.07.21.16",
+  "minecraftVersion": "26.2",
+  "fabricLoaderVersion": "0.19.3",
+  "fabricProfile": "fabric-loader-0.19.3-26.2",
+  "serverAddress": "behind-usgs.gl.joinmc.link",
+  "mods": [
+    {
+      "id": "basurero_3d",
+      "name": "Basurero 3D",
+      "version": "1.0.0",
+      "file": "basurero-3d-1.0.0.jar",
+      "sha256": "9c4c973b3a549738508bf672d3f69ecf8555c7d79d32a8286933b434b05a3b00",
+      "size": 15864
+    },
+    {
+      "id": "campeones_horda",
+      "name": "Campeones de Horda",
+      "version": "1.1.4",
+      "file": "campeones-horda-1.1.4.jar",
+      "sha256": "4ca4cd8cbfac6c09987140ee0b898170a5c3651138774f224fc141c05e09279f",
+      "size": 30338
+    },
+    {
+      "id": "cosecha_con_azada",
+      "name": "Cosecha con Azada",
+      "version": "1.0.1",
+      "file": "cosecha-con-azada-1.0.1.jar",
+      "sha256": "7ac7c551ce83c50b4cfdad6bdf8437caf99936a463e5ccd9b98d3f2436edaff1",
+      "size": 6421
+    },
+    {
+      "id": "decoracion_andescraft",
+      "name": "Decoracion AndesCraft",
+      "version": "1.2.2",
+      "file": "decoracion-andescraft-1.2.2.jar",
+      "sha256": "eaf0439ae635a03c1e7afa8164ab5d103f880d2ed69dbae1e415b90cc9bb9812",
+      "size": 189468
+    },
+    {
+      "id": "criaturas_miticas",
+      "name": "Criaturas Miticas",
+      "version": "3.5.9",
+      "file": "criaturas-miticas-3.5.9.jar",
+      "sha256": "b32b2c6cfcb95559ba9d9f30c44ff6a03ba2fd8e5cc171ce57098b5096d1e58e",
+      "size": 407724
+    },
+    {
+      "id": "elevador",
+      "name": "Elevador",
+      "version": "1.0.0",
+      "file": "elevador-1.0.0.jar",
+      "sha256": "8ea07a9415cffe01345118e0e691b2adfa547a5c1f9a786523c17eeba5d8a58e",
+      "size": 13759
+    },
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "version": "0.154.0+26.2",
+      "file": "fabric-api-0.154.0+26.2.jar",
+      "sha256": "84a5399dfd1096295450dfdbd535693453962f51fa20a8c15855dd1e69a73adc",
+      "size": 2523694
+    },
+    {
+      "id": "grapandgo",
+      "name": "Carry On para AndesCraft",
+      "version": "2.10.0-andescraft.1",
+      "file": "carryon-fabric-26.2-2.10.0-andescraft.1.jar",
+      "sha256": "5fab967996fcb6fdedccf406c78870ef6612b2bc126ff8193874e39388489d63",
+      "size": 377941
+    },
+    {
+      "id": "herramientas_3x3",
+      "name": "Herramientas 3x3",
+      "version": "1.0.1",
+      "file": "herramientas-3x3-1.0.1.jar",
+      "sha256": "6e6c744bd7216ad372ba8b89991b42b88960bf120b819f9faecaa8d88d2d42b1",
+      "size": 26457
+    },
+    {
+      "id": "hordas_encantamientos",
+      "name": "Libros Vanilla Extendidos",
+      "version": "1.0.2",
+      "file": "hordas-encantamientos-1.0.2.jar",
+      "sha256": "363477a590972fbee93f1427baa3e9babcfd596f0b603641064779aee52f03fc",
+      "size": 27772
+    },
+    {
+      "id": "hordas_incrementales",
+      "name": "Hordas Incrementales",
+      "version": "1.0.2",
+      "file": "hordas-incrementales-1.0.2.jar",
+      "sha256": "56ede8e9b0cd8173121e444c52ff65cb102b80a5297f7dad24f53e1c9a8506f5",
+      "size": 26619
+    },
+    {
+      "id": "indicador_vida_mobs",
+      "name": "Indicador de Vida de Mobs",
+      "version": "1.0.0",
+      "file": "indicador-vida-mobs-1.0.0.jar",
+      "sha256": "bef1801417d508741640280b7c6ed80c3af79155d8557e2d2ba2c89bfa8026a6",
+      "size": 8594
+    },
+    {
+      "id": "mineral_albarita",
+      "name": "Mineral de Albarita",
+      "version": "1.0.26",
+      "file": "mineral-albarita-1.0.26.jar",
+      "sha256": "aee8b46abbeb9e180f7d7d2c1e87c1a35168a710691c22eb48c8271d177c646f",
+      "size": 108269
+    },
+    {
+      "id": "mineral_de_corazon",
+      "name": "Mineral de Corazon",
+      "version": "1.0.6",
+      "file": "mineral-de-corazon-1.0.6.jar",
+      "sha256": "88bf4519fdcf7500188a81f67871742788d2a484d3207f693e748f1c771fee85",
+      "size": 19082
+    },
+    {
+      "id": "minerales_escasos",
+      "name": "Minerales Escasos",
+      "version": "1.1.0",
+      "file": "minerales-escasos-1.1.0.jar",
+      "sha256": "060a73f6a745abc8651056f40320b681d257968c2988faf869fa8f0a500455dd",
+      "size": 16670
+    },
+    {
+      "id": "mochila_equipada",
+      "name": "Mochila Equipada",
+      "version": "1.1.5",
+      "file": "mochila-equipada-1.1.5.jar",
+      "sha256": "b20b4fd4c83e4c8111ecfb51c308cddbaca1f655dbabb0933cc533faca069f21",
+      "size": 84492
+    },
+    {
+      "id": "noches_malditas",
+      "name": "Noches Malditas",
+      "version": "1.1.2",
+      "file": "noches-malditas-1.1.2.jar",
+      "sha256": "22b819e2008dc2aaf9896a409ebb5ea5c4cf527b50643b29363bbca7fbefff23",
+      "size": 35975
+    },
+    {
+      "id": "pizarra_misiones",
+      "name": "Pizarra de Misiones",
+      "version": "1.2.4",
+      "file": "pizarra-misiones-1.2.4.jar",
+      "sha256": "bbf1f25e2fa7799782c352859c4d95e7f36f104319cf01d0ca5b373dcef25c6a",
+      "size": 42729
+    },
+    {
+      "id": "saciedad_sensorial",
+      "name": "Saciedad Sensorial",
+      "version": "1.0.32",
+      "file": "saciedad-sensorial-1.0.32.jar",
+      "sha256": "7bf7260dfcc18b9f21b5007434ff0ba9fe00f0958232c973e7576331daa45b72",
+      "size": 124853
+    },
+    {
+      "id": "talado_arboles",
+      "name": "Talado de Arboles",
+      "version": "1.0.0",
+      "file": "talado-arboles-1.0.0.jar",
+      "sha256": "ddd749cc7d4228a6998894515441c3e81486f9fc8ad8520ae5ba6562a85f1f42",
+      "size": 4930
+    },
+    {
+      "id": "tumbas_fabric",
+      "name": "Tumbas Fabric",
+      "version": "1.0.8",
+      "file": "tumbas-fabric-1.0.8.jar",
+      "sha256": "49add3091f832b0bcc0b9bd1b237c9898e8e6ff1c43c9d236b4daca9c69c6d35",
+      "size": 45502
+    },
+    {
+      "id": "voicechat",
+      "name": "Chat de Voz por Proximidad",
+      "version": "2.6.20+26.2",
+      "file": "voicechat-fabric-2.6.20+26.2.jar",
+      "sha256": "6357a67908ab352c7b84dded72ac1a51f255028ef13f98dc109541b94fe34645",
+      "size": 5569123
+    },
+    {
+      "id": "wooden_guardian",
+      "name": "Tung Tung Sahur",
+      "version": "1.0.18",
+      "file": "wooden-guardian-1.0.18.jar",
+      "sha256": "b7ac92b664760f8b81d644d241ede266583e9f931b985ad4e8b776b065b90803",
+      "size": 36520
+    },
+    {
+      "id": "zoom_configurable",
+      "name": "Zoom Configurable",
+      "version": "1.0.0",
+      "file": "zoom-configurable-1.0.0.jar",
+      "sha256": "47859e53cd9e1d5856df4171b8e1b65e3f7943727fbe97c32d36e21479969983",
+      "size": 11166
+    },
+    {
+      "id": "forgeconfigapiport",
+      "name": "Forge Config API Port",
+      "version": "26.2.1",
+      "file": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "sha256": "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac",
+      "size": 609550
+    },
+    {
+      "id": "puzzleslib",
+      "name": "Puzzles Lib",
+      "version": "26.2.1",
+      "file": "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+      "sha256": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669",
+      "size": 1146181
+    },
+    {
+      "id": "mutantmonsters",
+      "name": "Mutant Monsters",
+      "version": "26.2.0",
+      "file": "MutantMonsters-v26.2.0-mc26.2.x-Fabric.jar",
+      "sha256": "b03c167c2f6a1cc5e7c32de28d8383e65473e0164ce1bb4747c80cbfcf1f0ac8",
+      "size": 1367277
+    },
+    {
+      "id": "golem_cobre_trabajador",
+      "name": "Golem de Cobre Trabajador",
+      "version": "1.0.8",
+      "file": "golem-cobre-trabajador-1.0.8.jar",
+      "sha256": "2a0f8823bb6f9ce8114a82ee4493118a709faa1151bc47ee41afbe654067b3d0",
+      "size": 26506
+    }
+  ],
+  "downloadBaseUrl": "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
 }
