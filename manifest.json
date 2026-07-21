@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.21.2",
+    "packVersion":  "2026.07.21.3",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -225,10 +225,10 @@
                  {
                      "id":  "golem_cobre_trabajador",
                      "name":  "Golem de Cobre Trabajador",
-                     "version":  "1.0.0",
-                     "file":  "golem-cobre-trabajador-1.0.0.jar",
-                     "sha256":  "1b4f62b8cdccabd08a42a827c46778cea5556897f636fc60c61417184eac3569",
-                     "size":  13190
+                     "version":  "1.0.1",
+                     "file":  "golem-cobre-trabajador-1.0.1.jar",
+                     "sha256":  "24ea78712f93a9362384eae685acc0ef823b958716b10d2dc5c66595bbe69c3c",
+                     "size":  13233
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
