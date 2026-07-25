@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.25.12",
+    "packVersion":  "2026.07.25.13",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -9,10 +9,10 @@
                  {
                      "id":  "basurero_3d",
                      "name":  "Basurero 3D",
-                     "version":  "1.0.0",
-                     "file":  "basurero-3d-1.0.0.jar",
-                     "sha256":  "9c4c973b3a549738508bf672d3f69ecf8555c7d79d32a8286933b434b05a3b00",
-                     "size":  15864
+                     "version":  "1.0.1",
+                     "file":  "basurero-3d-1.0.1.jar",
+                     "sha256":  "3aee650dd71e46599d752f6b152705b87b0e4c156d37700d0d91760b1435452c",
+                     "size":  17701
                  },
                  {
                      "id":  "campeones_horda",
