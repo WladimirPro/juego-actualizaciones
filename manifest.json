@@ -1,6 +1,6 @@
 {
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.25.09",
+    "packVersion":  "2026.07.25.10",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -25,10 +25,10 @@
                  {
                      "id":  "cosecha_con_azada",
                      "name":  "Cosecha con Azada",
-                     "version":  "1.0.1",
-                     "file":  "cosecha-con-azada-1.0.1.jar",
-                     "sha256":  "7ac7c551ce83c50b4cfdad6bdf8437caf99936a463e5ccd9b98d3f2436edaff1",
-                     "size":  6421
+                     "version":  "1.0.2",
+                     "file":  "cosecha-con-azada-1.0.2.jar",
+                     "sha256":  "0172959a049ca6a6b45f9dee3eef1d5dd4adc640fd5ae47e754f59c9c845952a",
+                     "size":  7587
                  },
                  {
                      "id":  "decoracion_andescraft",
@@ -225,10 +225,10 @@
                  {
                      "id":  "golem_cobre_trabajador",
                      "name":  "Golem de Cobre Trabajador",
-                     "version":  "1.1.5",
-                     "file":  "golem-cobre-trabajador-1.1.5.jar",
-                     "sha256":  "2f7839603f9b34d0b03fc0a032e4e5cc37fadd94a7d13b7af5e8f71a86eee3ec",
-                     "size":  41347
+                     "version":  "1.1.6",
+                     "file":  "golem-cobre-trabajador-1.1.6.jar",
+                     "sha256":  "317b35e31aa4990794f2761e3e0fb260d655cc983b85bf4b677b81a058c881e2",
+                     "size":  42292
                  },
                  {
                      "id":  "roughlyenoughitems",
