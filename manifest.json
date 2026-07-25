@@ -1,6 +1,6 @@
-﻿{
+{
   "launcherVersion": "1.2.2",
-  "packVersion": "2026.07.21.16",
+  "packVersion": "2026.07.25.01",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "fabricProfile": "fabric-loader-0.19.3-26.2",
@@ -41,10 +41,10 @@
     {
       "id": "criaturas_miticas",
       "name": "Criaturas Miticas",
-      "version": "3.5.9",
-      "file": "criaturas-miticas-3.5.9.jar",
-      "sha256": "b32b2c6cfcb95559ba9d9f30c44ff6a03ba2fd8e5cc171ce57098b5096d1e58e",
-      "size": 407724
+      "version": "3.6.0",
+      "file": "criaturas-miticas-3.6.0.jar",
+      "sha256": "f50a236646de6bf8d39e7630845f1672a626f82fc69672cda4aca4c9d19fbf42",
+      "size": 409556
     },
     {
       "id": "elevador",
@@ -225,10 +225,10 @@
     {
       "id": "golem_cobre_trabajador",
       "name": "Golem de Cobre Trabajador",
-      "version": "1.0.8",
-      "file": "golem-cobre-trabajador-1.0.8.jar",
-      "sha256": "2a0f8823bb6f9ce8114a82ee4493118a709faa1151bc47ee41afbe654067b3d0",
-      "size": 26506
+      "version": "1.1.0",
+      "file": "golem-cobre-trabajador-1.1.0.jar",
+      "sha256": "ac9d49eff8275e4c349893e20bbdd25b73d3f743a0f4c4bae91404ced574b01a",
+      "size": 33151
     }
   ],
   "downloadBaseUrl": "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
