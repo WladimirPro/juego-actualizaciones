@@ -1,6 +1,6 @@
 {
   "launcherVersion": "1.2.2",
-  "packVersion": "2026.07.25.01",
+  "packVersion": "2026.07.25.02",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "fabricProfile": "fabric-loader-0.19.3-26.2",
@@ -57,10 +57,10 @@
     {
       "id": "fabric-api",
       "name": "Fabric API",
-      "version": "0.154.0+26.2",
-      "file": "fabric-api-0.154.0+26.2.jar",
-      "sha256": "84a5399dfd1096295450dfdbd535693453962f51fa20a8c15855dd1e69a73adc",
-      "size": 2523694
+      "version": "0.155.2+26.2",
+      "file": "fabric-api-0.155.2+26.2.jar",
+      "sha256": "d6518c770024cbe8a556248f16fcdbb91c6a62f50227a6c3bae8190511e2c1b8",
+      "size": 2530080
     },
     {
       "id": "grapandgo",
@@ -229,6 +229,70 @@
       "file": "golem-cobre-trabajador-1.1.0.jar",
       "sha256": "ac9d49eff8275e4c349893e20bbdd25b73d3f743a0f4c4bae91404ced574b01a",
       "size": 33151
+    },
+    {
+      "id": "roughlyenoughitems",
+      "name": "Roughly Enough Items",
+      "version": "26.2.820",
+      "file": "RoughlyEnoughItems-26.2.820.jar",
+      "sha256": "9ba9d2a31531759549924064f33d3d45af342e7246f877efb8cee9f75f6ddaa9",
+      "size": 2419949
+    },
+    {
+      "id": "architectury",
+      "name": "Architectury API",
+      "version": "21.0.6",
+      "file": "architectury-fabric-21.0.6.jar",
+      "sha256": "c06aadc97ac473904c54e57d8e44172b22f5e9944f4ed6cf7ef9e8b6fc449a58",
+      "size": 587042
+    },
+    {
+      "id": "cloth-config",
+      "name": "Cloth Config",
+      "version": "26.2.155",
+      "file": "cloth-config-26.2.155.jar",
+      "sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
+      "size": 1135186
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "version": "26.2.9+fabric",
+      "file": "Jade-mc26.2-Fabric-26.2.9.jar",
+      "sha256": "819d159add9a7d295a051a45051c3ae1464b05737284937eae1023e1100f7f82",
+      "size": 1032857
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "version": "0.25.2+mc26.2",
+      "file": "lithium-fabric-0.25.2+mc26.2.jar",
+      "sha256": "7588d4a76989498f56e11e63a2b1170fff476e8d9c4aac94e310b3e7db469e0f",
+      "size": 911988
+    },
+    {
+      "id": "ferritecore",
+      "name": "FerriteCore",
+      "version": "9.0.0-fabric",
+      "file": "ferritecore-9.0.0-fabric.jar",
+      "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22",
+      "size": 72677
+    },
+    {
+      "id": "elytra-slot",
+      "name": "Elytra Slot",
+      "version": "1.0.0",
+      "file": "elytra-slot-1.0.0.jar",
+      "sha256": "aa5579ac053eecaac825fe1ad8a9fc92a949c5289498ea1625d08bfbe65880d3",
+      "size": 30506
+    },
+    {
+      "id": "imageframe",
+      "name": "ImageFrame URL",
+      "version": "26.2-1.2",
+      "file": "imageframe-fabric-26.2-1.2.jar",
+      "sha256": "9ad6f7c41eebd6193d88084025dc0b0c04fea75bfa240369321cd5f9254f127f",
+      "size": 1273731
     }
   ],
   "downloadBaseUrl": "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
