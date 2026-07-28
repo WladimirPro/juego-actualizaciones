@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.28.1",
+    "packVersion":  "2026.07.28.2",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -309,6 +309,14 @@
                      "file":  "camerapture-1.10.15+mc26.2.jar",
                      "sha256":  "df41451f3c20b529294b01732389c1a15be1c7f268ae48ac372db40dc9bee7df",
                      "size":  2434928
+                 },
+                 {
+                     "id":  "image2map",
+                     "name":  "Fotos por URL (Image2Map)",
+                     "version":  "0.14.0+26.2",
+                     "file":  "image2map-0.14.0+26.2.jar",
+                     "sha256":  "6cb2bc98207b52a0beb82bfa839dd1b1a62baea61de681a1d875b99dee1f8f01",
+                     "size":  869138
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
