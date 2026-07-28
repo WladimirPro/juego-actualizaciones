@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.28.2",
+    "packVersion":  "2026.07.28.3",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -287,14 +287,6 @@
                      "size":  30506
                  },
                  {
-                     "id":  "imageframe",
-                     "name":  "ImageFrame URL",
-                     "version":  "26.2-1.2",
-                     "file":  "imageframe-fabric-26.2-1.2.jar",
-                     "sha256":  "9ad6f7c41eebd6193d88084025dc0b0c04fea75bfa240369321cd5f9254f127f",
-                     "size":  1273731
-                 },
-                 {
                      "id":  "filtro_tolvas",
                      "name":  "Filtro de Tolvas",
                      "version":  "1.0.0",
@@ -311,12 +303,20 @@
                      "size":  2434928
                  },
                  {
-                     "id":  "image2map",
-                     "name":  "Fotos por URL (Image2Map)",
-                     "version":  "0.14.0+26.2",
-                     "file":  "image2map-0.14.0+26.2.jar",
-                     "sha256":  "6cb2bc98207b52a0beb82bfa839dd1b1a62baea61de681a1d875b99dee1f8f01",
-                     "size":  869138
+                     "id":  "immersive_paintings",
+                     "name":  "Cuadros por URL (Immersive Paintings)",
+                     "version":  "0.7.8+26.2",
+                     "file":  "immersive_paintings-fabric-26.2-0.7.8.jar",
+                     "sha256":  "e16f317966687b8a8da42a10c5a1874c3730c066a5d91b30c33b99461865a987",
+                     "size":  5511105
+                 },
+                 {
+                     "id":  "fzzy_config",
+                     "name":  "Fzzy Config",
+                     "version":  "0.7.6+26.2",
+                     "file":  "fzzy_config-0.7.6+26.2.jar",
+                     "sha256":  "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551",
+                     "size":  2373321
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
