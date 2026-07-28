@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.28.8",
+    "packVersion":  "2026.07.28.9",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -317,6 +317,14 @@
                      "file":  "fzzy_config-0.7.6+26.2.jar",
                      "sha256":  "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551",
                      "size":  2373321
+                 },
+                 {
+                     "id":  "fabric-language-kotlin",
+                     "name":  "Fabric Language Kotlin",
+                     "version":  "1.13.13+kotlin.2.4.10",
+                     "file":  "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+                     "sha256":  "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
+                     "size":  8076363
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
