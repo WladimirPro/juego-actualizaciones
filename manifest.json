@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.25.13",
+    "packVersion":  "2026.07.28.1",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -9,10 +9,10 @@
                  {
                      "id":  "basurero_3d",
                      "name":  "Basurero 3D",
-                     "version":  "1.0.1",
-                     "file":  "basurero-3d-1.0.1.jar",
-                     "sha256":  "3aee650dd71e46599d752f6b152705b87b0e4c156d37700d0d91760b1435452c",
-                     "size":  17701
+                     "version":  "1.0.2",
+                     "file":  "basurero-3d-1.0.2.jar",
+                     "sha256":  "9a09c9b91febd0bbd8e5ca8ee347306aaa462f48ac2abeae831878bbbb0dac44",
+                     "size":  19893
                  },
                  {
                      "id":  "campeones_horda",
@@ -41,10 +41,10 @@
                  {
                      "id":  "criaturas_miticas",
                      "name":  "Criaturas Miticas",
-                     "version":  "3.6.2",
-                     "file":  "criaturas-miticas-3.6.2.jar",
-                     "sha256":  "cc036c9c64c6be06ad274328cd6348188946d7a60357d5824d445843a2da4a80",
-                     "size":  409662
+                     "version":  "3.6.3",
+                     "file":  "criaturas-miticas-3.6.3.jar",
+                     "sha256":  "1845639440d5dd77ff1767b3c1284e4c683a62613577498c53042672dbcb4fe1",
+                     "size":  409659
                  },
                  {
                      "id":  "elevador",
@@ -57,10 +57,10 @@
                  {
                      "id":  "fabric-api",
                      "name":  "Fabric API",
-                     "version":  "0.155.2+26.2",
-                     "file":  "fabric-api-0.155.2+26.2.jar",
-                     "sha256":  "d6518c770024cbe8a556248f16fcdbb91c6a62f50227a6c3bae8190511e2c1b8",
-                     "size":  2530080
+                     "version":  "0.156.0+26.2",
+                     "file":  "fabric-api-0.156.0+26.2.jar",
+                     "sha256":  "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
+                     "size":  2531175
                  },
                  {
                      "id":  "grapandgo",
@@ -169,10 +169,10 @@
                  {
                      "id":  "tumbas_fabric",
                      "name":  "Tumbas Fabric",
-                     "version":  "1.0.8",
-                     "file":  "tumbas-fabric-1.0.8.jar",
-                     "sha256":  "49add3091f832b0bcc0b9bd1b237c9898e8e6ff1c43c9d236b4daca9c69c6d35",
-                     "size":  45502
+                     "version":  "1.0.9",
+                     "file":  "tumbas-fabric-1.0.9.jar",
+                     "sha256":  "810193d7f8adc7dcfc3ce4e7bee581187bbc07ffe8b131258f3aa1a164011c29",
+                     "size":  45661
                  },
                  {
                      "id":  "voicechat",
@@ -225,10 +225,10 @@
                  {
                      "id":  "golem_cobre_trabajador",
                      "name":  "Golem de Cobre Trabajador",
-                     "version":  "1.2.1",
-                     "file":  "golem-cobre-trabajador-1.2.1.jar",
-                     "sha256":  "7aa48dfdc142efa6ef90d3be990454774121673a6e942afcab1f69ab32efdf02",
-                     "size":  52880
+                     "version":  "1.2.2",
+                     "file":  "golem-cobre-trabajador-1.2.2.jar",
+                     "sha256":  "e08d332a14c6e8dc3b7a1a60cd358758f7b4e9707af5ba9c1c22290aedfdf001",
+                     "size":  52870
                  },
                  {
                      "id":  "roughlyenoughitems",
@@ -293,6 +293,22 @@
                      "file":  "imageframe-fabric-26.2-1.2.jar",
                      "sha256":  "9ad6f7c41eebd6193d88084025dc0b0c04fea75bfa240369321cd5f9254f127f",
                      "size":  1273731
+                 },
+                 {
+                     "id":  "filtro_tolvas",
+                     "name":  "Filtro de Tolvas",
+                     "version":  "1.0.0",
+                     "file":  "filtro-tolvas-1.0.0.jar",
+                     "sha256":  "63274102a2fc546e227f59f86973560446b1b12fefdf15291a6fb32805cedeb4",
+                     "size":  10315
+                 },
+                 {
+                     "id":  "camerapture",
+                     "name":  "Camerapture Fotos y Cuadros",
+                     "version":  "1.10.15+mc26.2",
+                     "file":  "camerapture-1.10.15+mc26.2.jar",
+                     "sha256":  "df41451f3c20b529294b01732389c1a15be1c7f268ae48ac372db40dc9bee7df",
+                     "size":  2434928
                  }
              ],
     "downloadBaseUrl":  "https://raw.githubusercontent.com/WladimirPro/juego-actualizaciones/main/mods/"
