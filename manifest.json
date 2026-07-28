@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.28.10",
+    "packVersion":  "2026.07.28.11",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -289,10 +289,10 @@
                  {
                      "id":  "filtro_tolvas",
                      "name":  "Filtro de Tolvas",
-                     "version":  "1.0.4",
-                     "file":  "filtro-tolvas-1.0.4.jar",
-                     "sha256":  "3127fd8e5eb0bfc1956c9a8340a5e286608a3ee0e7ca11cf54d2f1883400f10c",
-                     "size":  27824
+                     "version":  "1.0.5",
+                     "file":  "filtro-tolvas-1.0.5.jar",
+                     "sha256":  "2afe59e87575dcdacc29e31c71569d9001fd303dff72ce09d01a76f58896fbb2",
+                     "size":  28266
                  },
                  {
                      "id":  "camerapture",
