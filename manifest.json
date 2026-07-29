@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.28.11",
+    "packVersion":  "2026.07.29.1",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -225,10 +225,10 @@
                  {
                      "id":  "golem_cobre_trabajador",
                      "name":  "Golem de Cobre Trabajador",
-                     "version":  "1.2.2",
-                     "file":  "golem-cobre-trabajador-1.2.2.jar",
-                     "sha256":  "e08d332a14c6e8dc3b7a1a60cd358758f7b4e9707af5ba9c1c22290aedfdf001",
-                     "size":  52870
+                     "version":  "1.2.3",
+                     "file":  "golem-cobre-trabajador-1.2.3.jar",
+                     "sha256":  "7e0aebc1802625bcd823b1af402bfba233d73fbf52606232827114d129a00ed6",
+                     "size":  52850
                  },
                  {
                      "id":  "roughlyenoughitems",
