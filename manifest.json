@@ -1,6 +1,6 @@
 {
   "launcherVersion": "1.2.2",
-  "packVersion": "2026.07.30.1",
+  "packVersion": "2026.07.30.2",
   "minecraftVersion": "26.2",
   "fabricLoaderVersion": "0.19.3",
   "fabricProfile": "fabric-loader-0.19.3-26.2",
@@ -41,10 +41,10 @@
     {
       "id": "criaturas_miticas",
       "name": "Criaturas Miticas",
-      "version": "3.6.6",
-      "file": "criaturas-miticas-3.6.6.jar",
-      "sha256": "b0d3bf69c7dc543d92dd5e94539ac3d06e03af2d6db43904c14dff2b43003df3",
-      "size": 162904
+      "version": "3.6.7",
+      "file": "criaturas-miticas-3.6.7.jar",
+      "sha256": "684e44cf6b396e0aa117d6595f692fe389508b2bb74d9f40cd2d6a66232c4f1b",
+      "size": 169395
     },
     {
       "id": "elevador",
@@ -225,10 +225,10 @@
     {
       "id": "golem_cobre_trabajador",
       "name": "Automata Trabajador",
-      "version": "1.2.4",
-      "file": "golem-cobre-trabajador-1.2.4.jar",
-      "sha256": "6d4dee585b6a55a8dad9ff451fe65090034ae2acfe9a5406e754ce708d07eb17",
-      "size": 52531
+      "version": "1.2.5",
+      "file": "golem-cobre-trabajador-1.2.5.jar",
+      "sha256": "bc764e7ac73c2b5e94ed7bff4b1fdf9a8fe2241b4ebb85af0e0fdc6e3f03eeb5",
+      "size": 52773
     },
     {
       "id": "roughlyenoughitems",
