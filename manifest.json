@@ -1,6 +1,6 @@
 ﻿{
     "launcherVersion":  "1.2.2",
-    "packVersion":  "2026.07.29.2",
+    "packVersion":  "2026.07.29.3",
     "minecraftVersion":  "26.2",
     "fabricLoaderVersion":  "0.19.3",
     "fabricProfile":  "fabric-loader-0.19.3-26.2",
@@ -41,10 +41,10 @@
                  {
                      "id":  "criaturas_miticas",
                      "name":  "Criaturas Miticas",
-                     "version":  "3.6.4",
-                     "file":  "criaturas-miticas-3.6.4.jar",
-                     "sha256":  "b70859151b6e5fc20c42f873f6bf295caa93806fb4e605a6208f545e566f3eec",
-                     "size":  296113
+                     "version":  "3.6.5",
+                     "file":  "criaturas-miticas-3.6.5.jar",
+                     "sha256":  "ba7bd5faa1b29291bf1ce8cd12c2583f8e26fed587c131b03f4f1d59a361a7d0",
+                     "size":  162596
                  },
                  {
                      "id":  "elevador",
